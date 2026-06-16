@@ -4,7 +4,6 @@ import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.Id;
 
-import javax.xml.crypto.Data;
 import java.io.Serializable;
 import java.util.Date;
 
